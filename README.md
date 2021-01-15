@@ -1,2 +1,2 @@
 # mobileAppAutomation
-This git repository is created for the mobile application automation prototype creation.
+This git repository is created for the mobile application automation prototype development.
